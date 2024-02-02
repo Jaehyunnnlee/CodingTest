@@ -63,7 +63,7 @@ class Solution {
 class Main {
     public static void main(String[] args) {
         Scanner scan=new Scanner(System.in);
-        Solution sol=new Solution();
+        구명보트 sol=new 구명보트();
         int[] lottos=new int[6];
         int[] win_nums=new int[6];
         System.out.println("로또 번호 입력: ");
